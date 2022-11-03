@@ -2,5 +2,5 @@ pytest==6.2.2
 codecov==2.1.11
 requests==2.25.1
 flake8==3.9.0
-wheel==0.36.2
+wheel==0.38.0
 requests==2.25.1
